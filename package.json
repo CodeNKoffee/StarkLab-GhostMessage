@@ -1,0 +1,16 @@
+{
+  "name": "sms-sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sendSms.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Hatem Soliman",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "twilio": "^5.2.1"
+  }
+}
